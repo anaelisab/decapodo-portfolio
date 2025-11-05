@@ -12,11 +12,7 @@ export default function ServicesSection() {
       className="relative py-14 md:py-20 z-10 lg:bg-none bg-gradient-to-br from-indigo to-electric-violet"
     >
       <div className="max-w-6xl mx-auto px-4 lg:px-8 py-8 relative z-10">
-        {
-          <h2 className="text-4xl lg:text-duke-blue text-white mb-12 font-bold">
-            Servicios
-          </h2>
-        }
+        {<h2 className="text-4xl text-white mb-12 font-bold">Servicios</h2>}
         <div className="grid lg:grid-cols-2 gap-12">
           <div className="space-y-4">
             {servicios.map((servicio) => (

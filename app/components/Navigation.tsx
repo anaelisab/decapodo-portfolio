@@ -27,8 +27,8 @@ export default function Navigation() {
   const navigationItems = [
     { id: "inicio", label: "Inicio" },
     { id: "sobre", label: "Sobre" },
-    { id: "portfolio", label: "Portfolio" },
     { id: "servicios", label: "Servicios" },
+    { id: "portfolio", label: "Portfolio" },
     { id: "contacto", label: "Contacto" },
   ];
 

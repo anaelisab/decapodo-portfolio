@@ -4,7 +4,7 @@ export default function CertificationsSection() {
   return (
     <section className="relative lg:bg-transparent bg-white py-8 z-0">
       <div className="max-w-6xl mx-auto px-4 py-8 relative z-10">
-        <h2 className="text-4xl lg:text-white text-duke-blue mb-14 font-bold">
+        <h2 className="text-4xl text-duke-blue mb-14 font-bold">
           Certificaciones
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
