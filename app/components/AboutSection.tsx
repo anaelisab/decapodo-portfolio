@@ -9,17 +9,18 @@ export default function AboutSection() {
         </h2>
         <div className="text-white space-y-6 text-lg leading-relaxed mb-12">
           <p>
-            Soy Álvaro, diseñador multimedial con foco en el desarrollo
-            narrativo y estético de videojuegos.
+            Soy Álvaro, diseñador multimedial con foco en el{" "}
+            <b>desarrollo narrativo y estético</b> de videojuegos.
           </p>
           <p>
             Trabajo en el cruce entre lo técnico y lo poético, implementando
-            prototipos funcionales en Unity desde búsquedas artísticas
+            <b>prototipos funcionales en Unity</b> desde búsquedas artísticas
             profundas.
           </p>
           <p>
-            Desde Decápodo Game Design, acompaño equipos creativos a traducir
-            visiones en experiencias interactivas claras y significativas.
+            Desde Decápodo Game Design, acompaño equipos creativos a{" "}
+            <b>traducir visiones</b> en experiencias interactivas claras y
+            significativas.
           </p>
         </div>
         <div className="flex items-center justify-end space-x-4">
